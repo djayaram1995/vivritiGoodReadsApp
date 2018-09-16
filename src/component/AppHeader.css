@@ -1,0 +1,16 @@
+
+#pagination li {
+    border: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-right: 4px;
+}
+#pagination {
+    margin-right: 42%;
+    margin-left: 42%;
+}
+#pagination a {
+    color: black
+}
